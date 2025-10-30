@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Что такое Python?",
+        "options": [
+            "Язык программирования",
+            "Тип данных",
+            "Музыкальный инструмент",
+            "Змея на английском"
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой тип данных используется для хранения целых чисел?",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "natural"
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой оператор используется для сравнения двух значений на равенство в Python?",
+        "options": [
+            "=",
+            "==",
+            "===",
+            "!="
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "Что выведет код: print(type(5))?",
+        "options": [
+            "<class 'int'>",
+            "<class 'float'>",
+            "<class 'str'>",
+            "5"
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой символ используется для комментариев в Python?",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "Как создать пустой список в Python?",
+        "options": [
+            "list()",
+            "[]",
+            "list() или []",
+            "empty_list()"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "Что такое цикл for в Python?",
+        "options": [
+            "Условный оператор",
+            "Функция для ввода данных",
+            "Конструкция для повторения действий заданное число раз",
+            "Способ объявить переменную"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "Какой метод добавляет элемент в конец списка?",
+        "options": [
+            "append()",
+            "add()",
+            "insert()",
+            "push()"
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "Что означает сокращение \"IDE\"?",
+        "options": [
+            "Integrated Development Environment",
+            "Internal Data Engine",
+            "Interface Design Element",
+            "Interactive Debug Executor"
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой тип данных в Python неизменяемый?",
+        "options": [
+            "list",
+            "dict",
+            "set",
+            "tuple"
+        ],
+        "correct_option": 3
+    }
+]

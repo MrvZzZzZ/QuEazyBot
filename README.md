@@ -4,6 +4,9 @@
 
 Ссылка на бота: @QuEazy_Bot
 
+<img width="948" height="1135" alt="image" src="https://github.com/user-attachments/assets/6431550f-ea99-4c5d-82ff-32e278e0c063" />
+
+
 Возможности бота:
 
 - /start - запускает работу бота.
